@@ -308,6 +308,13 @@
       "symbol": "FIDU",
       "name": "FIDU",
       "tags": ["lending_borrowing"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9Df9De5Ed89ADBBd9fa2C14691903A0DE9048A87",
+      "symbol": "SULFERC",
+      "name": "SULFERC",
+      "tags": ["lending_borrowing"]
     }
   ],
   "version": {
